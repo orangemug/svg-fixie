@@ -16,9 +16,9 @@ Then fix the scale
 
 You'll probably also want to `#fixScale` on resize. 
 
-To remove the scale handler again
+To remove the scale from the element
 
-    fixie.destroy();
+    fixie.remove();
 
 
 ## License

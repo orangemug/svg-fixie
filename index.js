@@ -50,7 +50,7 @@ SvgFixie.prototype.write = function() {
 
 SvgFixie.prototype.fixScale = SvgFixie.prototype.write;
 
-SvgFixie.prototype.destroy = function() {
+SvgFixie.prototype.remove = function() {
   this._sheet.destroy();
 };
 
