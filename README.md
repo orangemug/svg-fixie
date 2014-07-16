@@ -1,5 +1,7 @@
-# svg-fixie
+# svg-fixie [![Build Status](https://travis-ci.org/orangemug/svg-fixie.svg?branch=master)](https://travis-ci.org/orangemug/svg-fixie)
 Fix the sizes of some SVG elements so they won't scale when the SVG scales
+
+[![browser support](https://ci.testling.com/orangemug/svg-fixie.png)](https://ci.testling.com/orangemug/svg-fixie)
 
 
 ## API
